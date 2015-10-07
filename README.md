@@ -1,1 +1,2 @@
 # MyfirsRepository-
+Learning JavaScript 
